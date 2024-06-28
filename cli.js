@@ -1,3 +1,9 @@
+#!/usr/bin/env node
+
+/*
+ * Command line interface of the package
+ */
+
 const fisqrt = require('./build/Release/fisqrt');
 
 /*** * * ***/
