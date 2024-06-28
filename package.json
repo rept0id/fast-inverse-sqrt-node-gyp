@@ -1,6 +1,6 @@
 {
   "name": "fast-inverse-sqrt-node-gyp",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "C++ Implementation of the Fast Inverse Square Root for Node",
   "main": "module.js",
   "scripts": {

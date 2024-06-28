@@ -21,13 +21,13 @@ npm i -g fast-inverse-sqrt-node-gyp
 Then, to run :
 
 ```
-fast-inverse-sqrt-node-gyp 7
+fisqrt_ng 7
 ```
 
-or 
+or, in case you face any node-related problems, run through npx :
 
 ```
-npx fast-inverse-sqrt-node-gyp 7
+npx fisqrt_ng 7
 ```
 
 ## 2. Using as a Module
@@ -43,9 +43,9 @@ npm i fast-inverse-sqrt-node-gyp
 Then you can use as shown bellow :
 
 ```
-const fisqrt = require('fast-inverse-sqrt-node-gyp');
+const fisqrt_ng = require('fast-inverse-sqrt-node-gyp');
 
-let res = fisqrt.fisqrt(7);
+let res = fisqrt_ng.fisqrt(7);
 
 console.log(res);
 ```
