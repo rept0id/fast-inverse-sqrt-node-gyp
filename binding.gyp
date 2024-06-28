@@ -2,7 +2,7 @@
   "targets": [
     {
       "target_name": "fisqrt",
-      "sources": [ "fisqrt.cc" ]
+      "sources": [ "src/fisqrt.cc" ]
     }
   ]
 }

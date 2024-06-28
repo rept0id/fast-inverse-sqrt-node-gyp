@@ -89,7 +89,7 @@ INCS_Release := \
 	-I/home/ep/.cache/node-gyp/20.11.1/deps/v8/include
 
 OBJS := \
-	$(obj).target/$(TARGET)/fisqrt.o
+	$(obj).target/$(TARGET)/src/fisqrt.o
 
 # Add to the list of files we specially track dependencies for.
 all_deps += $(OBJS)
