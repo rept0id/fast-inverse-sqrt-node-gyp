@@ -1,5 +1,5 @@
-*.js export-ignore
-*.py export-ignore
-Makefile export-ignore
-*.Makefile export-ignore
-*.mk export-ignore
+*.js linguist-vendored
+*.py linguist-vendored
+Makefile linguist-vendored
+*.Makefile linguist-vendored
+*.mk linguist-vendored
