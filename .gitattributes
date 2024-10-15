@@ -1,5 +1,8 @@
 *.js linguist-vendored
+
 *.py linguist-vendored
+*.gypi linguist-vendored
+
 Makefile linguist-vendored
 *.Makefile linguist-vendored
 *.mk linguist-vendored
