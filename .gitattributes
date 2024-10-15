@@ -2,3 +2,4 @@
 *.py export-ignore
 Makefile export-ignore
 *.Makefile export-ignore
+*.mk export-ignore
