@@ -2,8 +2,6 @@
 
 This package provides a C++ implementation of the fast inverse square root algorithm for Node.js.
 
-It's implemented in C++ and runs through node's API, thanks to Node-Gyp feature of Node. This approach provides near-native performance and can be used for high-demand computing tasks, when native hardware instructions aren't available through any graphics library.
-
 ## How to use
 
 There are two ways to use this package :
